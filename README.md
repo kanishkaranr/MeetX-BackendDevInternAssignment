@@ -41,7 +41,7 @@ This is the backend API for a basic activity booking application, built as a tec
     ```env
     PORT=5000
     MONGO_URI=your_mongodb_connection_string # e.g., mongodb://localhost:27017/meetXDB
-    JWT_SECRET=your_very_strong_and_random_jwt_secret
+    JWT_SECRET=your_secret_token
     ```
     *Replace placeholders with your actual values.*
 
