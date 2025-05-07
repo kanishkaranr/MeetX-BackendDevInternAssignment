@@ -28,7 +28,7 @@ This is the backend API for a basic activity booking application, built as a tec
 
 1.  **Clone the repository:**
     ```bash
-    git clone _______
+    git clone https://github.com/kanishkaranr/MeetX-BackendDevInternAssignment
     cd meetx-backendDevInternAssignment
     ```
 
